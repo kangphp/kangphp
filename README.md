@@ -1,4 +1,4 @@
-# Hi there, I'm Theo! 👋
+# Yuhuuuuu, I'm Theo! ✌️
 
 I'm a Full-Stack Developer from Indonesia with a passion for building robust and scalable applications. While I have experience across the full stack, my primary interest lies in **Backend Development, DevOps, and Security**. I'm driven by the challenge of creating efficient, secure systems and continuously improving development pipelines.
 
